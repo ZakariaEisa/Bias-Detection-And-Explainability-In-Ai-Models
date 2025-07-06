@@ -5,6 +5,7 @@ This project analyzes and mitigates bias in a job application screening model us
 ## 📂 Contents
 - `index.ipynb`: Full analysis pipeline
 - `Bias_Report_JobScreening.pdf`: 2-page report summarizing methods & findings
+- `untitled7.pdf`: Full analysis pipeline in pdf fprmat
 
 
 ## 📊 Tools Used
